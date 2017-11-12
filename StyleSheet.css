@@ -1,0 +1,63 @@
+.header{
+    display:grid;
+    grid-template-columns: 40% 30% 30%
+}
+
+.img-circle {
+    border-radius: 50%;
+    border-color: rgb(58, 58, 112)
+}
+.nameobjective{
+    margin-left: 70px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+.profilepicture{
+    margin-left: 70px;
+    margin-top: 70px;
+
+}
+.contactinfo{
+   text-align: right;
+   margin-top: 100px;
+margin-bottom: 10px;
+
+}
+.body{
+    display:grid;
+    grid-template-columns: 50% 50%
+}
+.firstcolumn{
+    margin-left: 70px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.secondcolumn{
+    margin-left: 70px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.progress-bar{
+    width: 100px;    
+    height: 10px;
+    background-color: rgb(176, 166, 166);
+    border-radius: 13px;
+    padding: 3px;
+    margin: 50px auto;
+}
+.progress{
+    width: 85px;    
+    height: 10px;
+    background-color: red;
+    border-radius: 10px;
+    margin: 50px auto;
+
+}
+
+
+
+
+
+
+
